@@ -13,7 +13,7 @@
   <img  align="right" src="assets/animated.gif" width="540"/>
 </div>
 <!-- <p align="center">
-  <a href="imsudiptaa@gmail.com">Contact me</a>
+  <a href="frahaman520@gmail.com">Contact me</a>
   <a href="https://www.linkedin.com/in/imsudiptaa/">LinkedIn</a>
 </p> -->
 
@@ -108,11 +108,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=imsudiptaa&theme=neon&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=frahaman786&theme=neon&include_all_commits=false&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=imsudiptaa&theme=neon" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=frahaman786&theme=neon" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
