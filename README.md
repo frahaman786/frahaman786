@@ -97,8 +97,8 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
 </picture><b>Hacktoberfest(24) Badges :</b><br>   
 <br>
-<a href="https://holopin.io/@imsudiptaa">
-    <img src="https://holopin.me/imsudiptaa" alt="An image of @imsudiptaa's Holopin badges, which is a link to view their full Holopin profile">
+<a href="https://holopin.io/@frahaman786">
+    <img src="https://holopin.me/frahaman786" alt="An image of @frahaman786's Holopin badges, which is a link to view their full Holopin profile">
 </a>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
