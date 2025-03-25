@@ -68,38 +68,7 @@
 ---
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
-</picture><b>Achievements :</b>
-
-<div style='display:flex; align-items:center; gap: 10px;'>
-  <a href="#">
-   <img src="assets/AWS Academy Cloud Foundations Badge.png" width="150"/>
-  <a href="#">
-<!--    <img src="assets/Pieces Badge.png" width="100"/>  -->
-</div>
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
-</picture> <b>GSSOC(24) Badges :</b><br>
-<div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
- <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/new-badge/Git%20Explorer.png" width="90px" height="90px" />
- </div>
-<br>
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
-</picture><b>Aperta 2.0(25):</b><br>   
-<br>
-<a href="https://holopin.io/@frahaman786">
-    <img src="https://holopin.me/frahaman786" alt="An image of @frahaman786's Holopin badges, which is a link to view their full Holopin profile">
-</a>
+  <
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">
