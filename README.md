@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Myself F.R.Molla, who loves to play with numbers.
+Hi Myself Faiz, and i love playing with numbers - solving, counting and making them my frends 🍉
 
 
 ## 🌐 Socials:
