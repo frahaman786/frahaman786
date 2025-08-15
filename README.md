@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Myself Faiz, and i love playing with numbers - solving, counting and making them my frends 🍉
+Hi Myself Faiz, and i love playing with numbers - solving, counting and making them my friends 🍉
 
 
 ## 🌐 Socials:
